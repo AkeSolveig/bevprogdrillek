@@ -52,7 +52,10 @@ int main()
 	if (age > 70)
 		cout << "I hope you are enjoying retirement.\n";
 
-	cout << "Yours sincerely,\n\n\n";
+	cout << "Yours sincerely,";
+
+	for(int i=0;i<3;i++)
+		cout << endl;
 
 	cout << "Ake Solveig\n";
 
