@@ -4,7 +4,7 @@ int main()
 {
 	double a =0, b=0;
 	
-	cout << "Please enter a number\n";
+	cout << "Please enter 2 numbers\n";
 
 	while(cin >> a >> b)
 	{
