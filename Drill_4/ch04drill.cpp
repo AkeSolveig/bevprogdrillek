@@ -4,8 +4,9 @@ int main()
 {
 	double a =0, b=0;
 	
+	cout << "Please enter a number\n";
 
-	while(cin >> a )
+	while(cin >> a >> b)
 	{
 
 		cout << "a=" << a << " b= " << b << endl;
